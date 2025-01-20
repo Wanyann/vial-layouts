@@ -17,7 +17,7 @@
                 "KC_E",
                 "TD(30)",
                 "KC_Q",
-                "KC_TAB"
+                "KC_NO"
             ],
             [
                 "TD(6)",
@@ -25,7 +25,7 @@
                 "C_S_T(KC_D)",
                 "LALT_T(KC_S)",
                 "LGUI_T(KC_A)",
-                "LSFT_T(KC_ENTER)"
+                "KC_NO"
             ],
             [
                 "TD(4)",
@@ -33,7 +33,7 @@
                 "TD(2)",
                 "TD(1)",
                 "TD(0)",
-                "KC_BSLASH"
+                "KC_NO"
             ],
             [
                 "SGUI(KC_Q)",
@@ -49,7 +49,7 @@
                 "KC_F8",
                 "KC_F9",
                 "KC_F10",
-                "KC_F11"
+                "M19"
             ],
             [
                 "KC_Y",
@@ -57,7 +57,7 @@
                 "KC_I",
                 "KC_O",
                 "KC_P",
-                "KC_LBRACKET"
+                "KC_NO"
             ],
             [
                 "KC_H",
@@ -65,7 +65,7 @@
                 "KC_K",
                 "KC_L",
                 "RALT_T(KC_SCOLON)",
-                "KC_QUOTE"
+                "KC_NO"
             ],
             [
                 "KC_N",
@@ -73,10 +73,10 @@
                 "KC_COMMA",
                 "KC_DOT",
                 "TD(7)",
-                "KC_RBRACKET"
+                "KC_NO"
             ],
             [
-                "M19",
+                "KC_NO",
                 "OSM(MOD_LSFT)",
                 "LT4(KC_BSPACE)",
                 "OSL(7)",
@@ -99,7 +99,7 @@
                 "KC_E",
                 "TD(30)",
                 "KC_Q",
-                "KC_TAB"
+                "KC_NO"
             ],
             [
                 "TD(6)",
@@ -107,7 +107,7 @@
                 "C_S_T(KC_D)",
                 "LALT_T(KC_S)",
                 "LGUI_T(KC_A)",
-                "LSFT_T(KC_ENTER)"
+                "KC_NO"
             ],
             [
                 "TD(4)",
@@ -115,7 +115,7 @@
                 "TD(2)",
                 "TD(1)",
                 "TD(0)",
-                "KC_BSLASH"
+                "KC_NO"
             ],
             [
                 "SGUI(KC_Q)",
@@ -139,7 +139,7 @@
                 "KC_I",
                 "KC_O",
                 "KC_P",
-                "KC_LBRACKET"
+                "KC_NO"
             ],
             [
                 "KC_H",
@@ -147,7 +147,7 @@
                 "KC_K",
                 "KC_L",
                 "RALT_T(KC_SCOLON)",
-                "KC_QUOTE"
+                "KC_NO"
             ],
             [
                 "KC_N",
@@ -155,10 +155,10 @@
                 "KC_COMMA",
                 "KC_DOT",
                 "TD(7)",
-                "KC_RBRACKET"
+                "KC_NO"
             ],
             [
-                "M19",
+                "KC_TRNS",
                 "OSM(MOD_LSFT)",
                 "LT4(KC_BSPACE)",
                 "LT7(KC_DELETE)",
@@ -181,7 +181,7 @@
                 "KC_BTN4",
                 "TD(27)",
                 "KC_NO",
-                "KC_TRNS"
+                "KC_NO"
             ],
             [
                 "TD(15)",
@@ -189,7 +189,7 @@
                 "USER06",
                 "KC_NUMLOCK",
                 "KC_LCTRL",
-                "KC_ENTER"
+                "KC_NO"
             ],
             [
                 "TD(22)",
@@ -221,7 +221,7 @@
                 "KC_I",
                 "KC_O",
                 "KC_P",
-                "KC_LBRACKET"
+                "KC_NO"
             ],
             [
                 "KC_H",
@@ -229,7 +229,7 @@
                 "KC_K",
                 "KC_L",
                 "RALT_T(KC_SCOLON)",
-                "KC_QUOTE"
+                "KC_NO"
             ],
             [
                 "KC_N",
@@ -237,7 +237,7 @@
                 "KC_COMMA",
                 "KC_DOT",
                 "TD(7)",
-                "KC_RBRACKET"
+                "KC_NO"
             ],
             [
                 "KC_TRNS",
@@ -263,7 +263,7 @@
                 "KC_E",
                 "KC_W",
                 "KC_Q",
-                "KC_TAB"
+                "KC_NO"
             ],
             [
                 "KC_G",
@@ -271,7 +271,7 @@
                 "C_S_T(KC_D)",
                 "LALT_T(KC_S)",
                 "LGUI_T(KC_A)",
-                "M11"
+                "KC_NO"
             ],
             [
                 "KC_B",
@@ -279,7 +279,7 @@
                 "KC_C",
                 "KC_X",
                 "KC_Z",
-                "KC_BSLASH"
+                "KC_NO"
             ],
             [
                 "KC_TRNS",
@@ -303,7 +303,7 @@
                 "KC_I",
                 "KC_O",
                 "KC_P",
-                "KC_LBRACKET"
+                "KC_NO"
             ],
             [
                 "KC_H",
@@ -311,7 +311,7 @@
                 "KC_K",
                 "KC_L",
                 "RALT_T(KC_SCOLON)",
-                "KC_QUOTE"
+                "KC_NO"
             ],
             [
                 "KC_N",
@@ -319,7 +319,7 @@
                 "KC_COMMA",
                 "KC_DOT",
                 "KC_SLASH",
-                "KC_RBRACKET"
+                "KC_NO"
             ],
             [
                 "KC_TRNS",
@@ -340,12 +340,12 @@
                 "KC_NO"
             ],
             [
-                "DYN_MACRO_PLAY2",
+                "KC_NO",
                 "KC_9",
                 "KC_8",
                 "KC_7",
-                "DYN_REC_START2",
-                "DYN_REC_STOP"
+                "KC_NO",
+                "KC_NO"
             ],
             [
                 "KC_EQUAL",
@@ -353,7 +353,7 @@
                 "KC_5",
                 "KC_4",
                 "KC_MINUS",
-                "USER29"
+                "KC_NO"
             ],
             [
                 "KC_BSLASH",
@@ -361,7 +361,7 @@
                 "KC_2",
                 "KC_1",
                 "KC_0",
-                "USER28"
+                "KC_NO"
             ],
             [
                 "KC_TRNS",
@@ -388,7 +388,7 @@
                 "KC_NO"
             ],
             [
-                "MAGIC_SWAP_LCTL_LGUI",
+                "KC_NO",
                 "KC_LCTRL",
                 "KC_LSHIFT",
                 "KC_LALT",
@@ -396,7 +396,7 @@
                 "KC_NO"
             ],
             [
-                "MAGIC_UNSWAP_LCTL_LGUI",
+                "KC_NO",
                 "KC_NO",
                 "KC_NO",
                 "KC_NO",
@@ -422,12 +422,12 @@
                 "KC_F1"
             ],
             [
-                "KC_NO",
                 "LCA(KC_4)",
                 "LCA(KC_3)",
                 "LCA(KC_2)",
                 "LCA(KC_1)",
-                "LALT(KC_0)"
+                "KC_TAB",
+                "KC_NO"
             ],
             [
                 "C_S(KC_C)",
@@ -435,7 +435,7 @@
                 "KC_LSHIFT",
                 "LCA(KC_RIGHT)",
                 "LCA(KC_LEFT)",
-                "LALT(KC_PGDOWN)"
+                "KC_NO"
             ],
             [
                 "KC_NO",
@@ -443,7 +443,7 @@
                 "M18",
                 "LSFT(KC_F6)",
                 "LCTL(KC_COMMA)",
-                "LALT(KC_PGUP)"
+                "KC_NO"
             ],
             [
                 "KC_TRNS",
@@ -462,32 +462,32 @@
                 "KC_F12"
             ],
             [
-                "USER22",
+                "KC_NO",
                 "LCTL(KC_LEFT)",
                 "KC_UP",
                 "LCTL(KC_RIGHT)",
-                "KC_NO",
-                "USER24"
-            ],
-            [
-                "KC_PGUP",
-                "KC_LEFT",
-                "KC_DOWN",
-                "KC_RIGHT",
-                "M9",
+                "KC_LBRACKET",
                 "KC_NO"
             ],
             [
-                "USER23",
-                "KC_PGDOWN",
+                "KC_NO",
+                "KC_LEFT",
+                "KC_DOWN",
+                "KC_RIGHT",
+                "KC_QUOTE",
+                "KC_NO"
+            ],
+            [
+                "KC_NO",
+                "M9",
                 "KC_NO",
                 "KC_NO",
-                "USER21",
-                "USER25"
+                "KC_RBRACKET",
+                "KC_NO"
             ],
             [
                 "KC_TRNS",
-                "KC_NO",
+                "OSM(MOD_LSFT)",
                 "KC_BSPACE",
                 "KC_NO",
                 "KC_NO",
@@ -1197,7 +1197,7 @@
                 "KC_8",
                 "KC_9",
                 "KC_0",
-                "KC_BSPACE"
+                "M25"
             ],
             [
                 "KC_Y",
@@ -1290,7 +1290,7 @@
                 "KC_F11"
             ],
             [
-                "KC_PGDOWN",
+                "KC_NO",
                 "KC_4",
                 "KC_5",
                 "KC_6",
@@ -1322,8 +1322,8 @@
                 "KC_VOLU"
             ],
             [
-                "USER05",
-                "USER04"
+                "KC_BRID",
+                "KC_BRIU"
             ]
         ],
         [
@@ -1787,7 +1787,11 @@
             ],
             [
                 "tap",
-                "CMB_TOG"
+                "CMB_OFF"
+            ],
+            [
+                "delay",
+                20
             ]
         ],
         [
@@ -1903,11 +1907,15 @@
             ],
             [
                 "delay",
-                15
+                30
             ],
             [
                 "tap",
                 "CMB_ON"
+            ],
+            [
+                "delay",
+                20
             ]
         ],
         [
@@ -2401,11 +2409,11 @@
             "KC_ESCAPE"
         ],
         [
+            "KC_E",
+            "TD(9)",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_ENTER"
         ],
         [
             "KC_COMMA",
@@ -2422,11 +2430,11 @@
             "USER16"
         ],
         [
-            "LSFT_T(KC_GRAVE)",
-            "LGUI_T(KC_A)",
+            "TD(30)",
+            "KC_E",
             "KC_NO",
             "KC_NO",
-            "KC_CAPSLOCK"
+            "LCTL(KC_ENTER)"
         ],
         [
             "LGUI_T(KC_A)",
